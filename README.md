@@ -1,1 +1,1 @@
-<video controls src="assets/video/VELAS - CSS.mp4" title="Title"></video>
+[Assista ao vídeo](assets/video/VELAS%20-%20CSS.mp4)
